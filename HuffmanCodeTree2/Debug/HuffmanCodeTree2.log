@@ -1,0 +1,19 @@
+﻿Build started 28/02/2017 15:00:20.
+     1>Project "H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\HuffmanCodeTree2\HuffmanCodeTree2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\HuffmanCodeTree2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt HuffmanCodeTree.cpp
+         HuffmanCodeTree.cpp
+     1>h:\personal\year 2\c++ development\s2\assignment\huffmancodetree2\huffmancodetree2\huffmancodetree.cpp(26): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\Debug\HuffmanCodeTree2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\Debug\HuffmanCodeTree2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\Debug\HuffmanCodeTree2.lib" /MACHINE:X86 Debug\BinaryTree.obj
+         Debug\CharFreqv2.obj
+         Debug\HuffmanCodeTree.obj
+         Debug\Main.obj
+         Debug\PriorityQueue.obj
+         Debug\stdafx.obj
+         HuffmanCodeTree2.vcxproj -> H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\Debug\HuffmanCodeTree2.exe
+     1>Done Building Project "H:\Personal\Year 2\C++ Development\S2\Assignment\HuffmanCodeTree2\HuffmanCodeTree2\HuffmanCodeTree2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.30
